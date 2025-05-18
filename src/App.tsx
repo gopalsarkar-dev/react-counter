@@ -4,6 +4,6 @@ const App = () => {
       <div className="">Ract-Vit</div>
     </>
   );
-}
+};
 
 export default App;
